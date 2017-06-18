@@ -1,1 +1,11 @@
+com\medicea\util\AmazonProperties$Aws.class
+com\medicea\util\AmazonProperties$S3.class
+com\medicea\util\AmazonS3Template.class
+com\medicea\dao\DatabaseConfig.class
+com\medicea\businessObjects\ClientTemplate.class
+com\medicea\dao\TemplateDAO.class
+com\medicea\util\AmazonProperties.class
 com\medicea\starter\StartService.class
+com\medicea\repository\TemplateRepository.class
+com\medicea\controller\TemplateController.class
+com\medicea\dao\TemplateDAOImp.class

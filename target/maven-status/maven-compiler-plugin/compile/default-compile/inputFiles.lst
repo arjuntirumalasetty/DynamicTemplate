@@ -1,1 +1,9 @@
+C:\dynamicTemplate\src\main\java\com\medicea\controller\TemplateController.java
+C:\dynamicTemplate\src\main\java\com\medicea\dao\TemplateDAO.java
+C:\dynamicTemplate\src\main\java\com\medicea\repository\TemplateRepository.java
 C:\dynamicTemplate\src\main\java\com\medicea\starter\StartService.java
+C:\dynamicTemplate\src\main\java\com\medicea\businessObjects\ClientTemplate.java
+C:\dynamicTemplate\src\main\java\com\medicea\dao\DatabaseConfig.java
+C:\dynamicTemplate\src\main\java\com\medicea\dao\TemplateDAOImp.java
+C:\dynamicTemplate\src\main\java\com\medicea\util\AmazonS3Template.java
+C:\dynamicTemplate\src\main\java\com\medicea\util\AmazonProperties.java
